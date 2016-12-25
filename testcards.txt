@@ -1,0 +1,54 @@
+STAGE/INT Cards: Please use cards from the list below:
+
+MasterCard Stage Card Visa Stage Card
+
+5413850000000040 4012880000000623
+5413850000000057 4012880000000664
+5413850000000065 4012880000000433
+5413850000000073 4012880000000680
+5413850000000081 4012880000000698
+5413850000000099 4012880000000193
+5413850000000107 4465070011400002
+5413850000000115 4012880000000219
+5413850000000123 4012880000000201
+5413850000000131 4012880000000698
+5413850000000149 4012880000000144
+
+
+maestro card in local
+
+6704 1016 8113 0102
+6704 1016 8113 0201
+
+
+
+krishnajajula2@yahoo.com
+
+
+
+testmerchant186
+
+testmerchant186@gmail.com
+
+
+
+Adherence to deliverable schedule
+Improve communication
+Proactive on customer problems
+
+
+Improve Customer Satisfaction index to meet target
+
+MasterPass(DCT commerce) 
+
+
+8897877957
+
+
+https://stage.masterpass.com/pm3/Home
+
+
+MPASS-1044
+MPASS-969
+MPASS-989
+
